@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Hyundai city",
+    "category": "sedan",
+    "seats": 5,
+    "fuel": "petrol",
+    "year": "2025",
+    "model": "Top",
+    "milage": "14",
+    "price": 1500,
+    "transmission": false,
+    "image": "https://i.pinimg.com/originals/68/4d/08/684d08315f7c53db46b07171371a1e02.webp",
+    "about": "The City offers a spacious and comfortable cabin designed for everyday family travel. It delivers smooth performance with refined driving dynamics for city and highway use.  Modern features and reliable build quality make it a trusted and practical choice."
+  },
+  {
+    "id": 2,
+    "name": "Wagon R",
+    "category": "sedan",
+    "seats": 5,
+    "fuel": "petrol",
+    "year": "2024",
+    "model": "SX",
+    "mileage": "18",
+    "price": 1400,
+    "transmission": false,
+    "image": "https://images.91wheels.com/assets/b_images/main/models/profile/profile1746101671.jpg?w=840&q=50",
+    "about": "The Wagon R offers a spacious cabin with excellent practicality for daily use. A reliable and comfortable choice with modern features for everyday travel."
+  },
+  {
+    "id": 3,
+    "name": "Defender",
+    "category": "SUV",
+    "seats": 5,
+    "fuel": "petrol",
+    "year": "2023",
+    "model": "ZXI",
+    "mileage": "20",
+    "price": 1300,
+    "transmission": true,
+    "image": "https://images.91wheels.com/assets/b_images/main/models/profile/profile1743748290.jpg?w=840&q=50",
+    "about": "The Defender combines rugged capability with modern luxury, built for both off-road challenges and city comfort. Its powerful performance and premium features make every drive confident and refined."
+  },
+  {
+    "id": 4,
+    "name": "Mahindra be6",
+    "category": "SUV",
+    "seats": 5,
+    "fuel": "petrol",
+    "year": "2023",
+    "model": "ZXI",
+    "mileage": "20",
+    "price": 1200,
+    "transmission": true,
+    "image": "https://images.91wheels.com/assets/b_images/main/models/profile/profile1747399654.jpg?w=840&q=50",
+    "about": "The Mahindra BE6 is a bold electric SUV designed for modern urban commuting. Its striking design, strong performance, and advanced features offer a refined and confident driving experience."
+  }
+]

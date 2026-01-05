@@ -1,0 +1,62 @@
+
+.contact-page {
+  width: 100%;
+  overflow-x: hidden;
+  padding-top: 90px; 
+}
+
+.contact-title {
+  margin-top: 60px;
+}
+
+.contact-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  gap: 30px;
+  width: 100%;
+}
+
+.contact-card {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 992px) {
+  .contact-container {
+    grid-template-columns: 1fr; 
+  }
+}
+
+
+@media (max-width: 576px) {
+  .contact-page {
+    padding: 20px 0 !important;
+  }
+
+  .contact-title {
+    font-size: 24px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .contact-card {
+    padding: 16px !important;
+    border-radius: 14px !important;
+  }
+
+  .contact-card h2 {
+    font-size: 20px !important;
+  }
+
+  .contact-icon {
+    font-size: 22px !important;
+  }
+
+  input,
+  textarea {
+    font-size: 14px !important;
+  }
+
+  button {
+    font-size: 15px !important;
+  }
+}
